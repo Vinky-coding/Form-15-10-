@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\bin\Debug\frmDangKy.exe.config
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\bin\Debug\frmDangKy.exe
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\bin\Debug\frmDangKy.pdb
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.Form1.resources
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.Properties.Resources.resources
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.exe
+C:\Users\Admin\source\repos\frmDangKy\frmDangKy\obj\Debug\frmDangKy.pdb
